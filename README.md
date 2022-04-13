@@ -8,11 +8,7 @@
     <img src="https://img.shields.io/badge/portfolio-EBA321?style=for-the-badge" />
 </div>
 
----
-
 <h2 align="center">Hello, I'm <a href="https://ariq.uk" target="_blank">Ariq</a> 👋</h2>
-
----
 
 I'm a full-stack developer from <b><img src="https://flagpedia.net/data/flags/w580/gb-sct.png" height="12"/> Scotland!</b>
 
