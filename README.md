@@ -23,3 +23,11 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariqfraser&show_icons=true&theme=dark&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqfraser&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20Stats) -->
