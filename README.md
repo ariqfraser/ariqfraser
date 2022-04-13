@@ -10,7 +10,9 @@
 
 ---
 
-<p align="center"><span style="font-size: 2em">Hello 👋</span><br>I'm a full-stack developer from <b>Scotland!</b> <img src="https://flagpedia.net/data/flags/w580/gb-sct.png" height="12"/></p>
+<p align="center"><font size="24">Hello 👋</font><br>I'm a full-stack developer from <b>Scotland!</b> <img src="https://flagpedia.net/data/flags/w580/gb-sct.png" height="12"/></p>
+
+---
 
 <div align="center">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
