@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/portfolio-EBA321?style=for-the-badge" />
 </div>
 
----
-
-<p align="center"><font size="24">Hello 👋</font><br>I'm a full-stack developer from <b>Scotland!</b> <img src="https://flagpedia.net/data/flags/w580/gb-sct.png" height="12"/></p>
+<p align="center"><span size="24">Hello 👋</span><br>I'm a full-stack developer from <b>Scotland!</b> <img src="https://flagpedia.net/data/flags/w580/gb-sct.png" height="12"/></p>
 
 ---
 
