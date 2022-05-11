@@ -6,8 +6,8 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ariqfraser/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/EMAIL-fafafa?logo=gmail&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/portfolio-EBA321?style=for-the-badge" />
+    <a href="mailto: ariqfraser@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-fafafa?logo=gmail&style=for-the-badge" /></a>
+    <a href="https://ariq.uk/" target="_blank"><img src="https://img.shields.io/badge/portfolio-EBA321?style=for-the-badge" /></a>
 </div>
 
 ---
